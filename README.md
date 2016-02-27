@@ -1,3 +1,3 @@
 # PongTutorial
 
-Tutorial made with libGDX and cocos2d. Making a Pong
+Tutorial made with libGDX, cocos2d and LOVE. Making a Pong
